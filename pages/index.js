@@ -50,8 +50,13 @@ export default function Home() {
           </a>
 
           <a className={styles.card}>
-            <h2>Practice Emails &darr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Practice Email 1 &darr;</h2>
+            <p>How are you doing Joe? Firstly, thank you for considering Vercel as a host option. I'd be glad to walk you through our enterprise option as that would certainly be a great fit for Barnes and Noble. I'm sure as you saw some of the basic information from our site, but Enterprise is single-sign-on -- which we all love, and comes with a dedicated support manager to you and your team. Pricing is scaled according to your bandwidth needs. If we could get on a call or zoom some time this week I would love to walk you through how Vercel works and go into more detail how Enterprise would be the perfect fit for your needs. Would sometime today or tomorrow work for you? Look forward to hearing from you.</p>
+          </a>
+
+          <a className={styles.card}>
+            <h2>Practice Email 2 &darr;</h2>
+            <p>Hi Melissa, Thank you for reaching to Vercel for your site's needs -- I'd be happy to help. At first glance at your site, my initial guess would be that Enterprise would be the way to go for Hipcamp, but I can't say straight away which option would be better for you without knowing a bit more information. Are you available sometime today or tomorrow to hop on a call/zoom to discuss further? I can walk you through everything you need to know about what we can do for you and together we can make an informed decision about which option would be best. Let me know what day and time would work best for you.   </p>
           </a>
 
           <a className={styles.card}>
