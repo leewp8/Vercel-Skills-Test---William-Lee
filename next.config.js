@@ -1,10 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-}
-
-module.exports = nextConfig, {
-  async redirects() {
+  redirects: async() => {
     return [
       {
         source: '/hello-vercel',
@@ -12,5 +9,7 @@ module.exports = nextConfig, {
         permanent: false,
       },
     ]
-  },
+  }
 }
+
+module.exports = nextConfig

@@ -41,7 +41,7 @@ export default function Home() {
               </ol> 
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a className={styles.card}>
             <h2>Reflection &darr;</h2>
             <ol type="a">
               <li>Since this will be my first role in tech after graduating from BloomTech, I'm looking to learn as much as I can. My goal in my next role is to really master the technical aspects of frontend frameworks and to be able to TEACH someone else what I know. In my eyes, if you can teach someone a skill, that's when you've mastered that skill.</li>
@@ -49,22 +49,19 @@ export default function Home() {
             </ol> 
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
+          <a className={styles.card}>
+            <h2>Practice Emails &darr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+          <a className={styles.card}>
+            <h2>Personal Recommendations &darr;</h2>
+            <h3>Most Interested In:</h3>
+              <ol type="1">
+                <li>mom n pop</li>
+                <li>NFT</li>
+                <li>Nintendo marketing page</li>
+              </ol> 
           </a>
         </div>
       </main>
