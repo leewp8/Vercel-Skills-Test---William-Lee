@@ -51,22 +51,17 @@ export default function Home() {
 
           <a className={styles.card}>
             <h2>Practice Email 1 &darr;</h2>
-            <p>How are you doing Joe? Firstly, thank you for considering Vercel as a host option. I'd be glad to walk you through our Enterprise option as that would certainly be a great fit for Barnes and Noble. I'm sure as you saw some of the basic information from our site, but Enterprise is single-sign-on -- which we all love, and comes with a dedicated support manager to you and your team. Pricing is scaled according to your bandwidth needs. I'd love to get some more details from you to better assist our potential partnership. If we could get on a call or zoom some time this week I would love to walk you through how Vercel works, as well as how Enterprise would be the perfect fit for your needs. Would some time today or tomorrow work for you? Look forward to hearing from you.</p>
+            <p>How are you doing Joe? Firstly, thank you for considering Vercel as a hosting option. I'd be glad to walk you through our Enterprise option as that would certainly be a great fit for Barnes and Noble. I'm sure as you saw some of the basic information from our site, but Enterprise is single-sign-on -- which we all love, and comes with a dedicated support manager to you and your team. Pricing is scaled according to your bandwidth needs. I'd love to get some more details from you to better assist our potential partnership. If we could get on a call or zoom some time this week I would love to walk you through how Vercel works, as well as how Enterprise would be the perfect fit for your needs. Would some time today or tomorrow work for you? Look forward to hearing from you.</p>
           </a>
 
           <a className={styles.card}>
             <h2>Practice Email 2 &darr;</h2>
-            <p>Hi Melissa, Thank you for reaching to Vercel for your site's needs -- I'd be happy to help. At first glance at your site, my initial guess would be that Enterprise would be the way to go for Hipcamp, but I can't say straight away which option would be better for you without knowing a bit more information. Are you available sometime today or tomorrow to hop on a call/zoom to discuss further? I can walk you through everything you need to know about our product and together we can make an informed decision about which option makes the most sense. Let me know what day and time would work best for you.   </p>
+            <p>Hi Melissa, Thank you for reaching to Vercel for your site's needs -- I'd be happy to help. At first glance at your site, my initial guess would be that Enterprise would be the way to go for Hipcamp, but I can't say straight away which option would be better for you without knowing a bit more information. In terms of your timeline, I don't think there would be any issues. Are you available sometime today or tomorrow to hop on a call/zoom to discuss further? I can walk you through everything you need to know about our product and together we can make an informed decision about which option makes the most sense. Let me know what day and time would work best for you.   </p>
           </a>
 
           <a className={styles.card}>
             <h2>Personal Recommendations &darr;</h2>
-            <h3>Most Interested In:</h3>
-              <ol type="1">
-                <li>mom n pop</li>
-                <li>NFT</li>
-                <li>Nintendo marketing page</li>
-              </ol> 
+              <p>Some of the common things to consider are bandwidth needs, how many team members need access, image optimization, security, and options for support. I would imagine the mom and pop business would need a lot less in terms of bandwidth, support options, and team member access, but still need plenty in terms of security since they are dealing with transactions. An NFT site would need a lot for image optimization and security, because you would be dealing with buying and selling of the images in all likelihood. A marketing page for Nintendo would require a lot of bandwidth and team member access, but perhaps not as much image optimization since it is just one page.    </p> 
           </a>
         </div>
       </main>
