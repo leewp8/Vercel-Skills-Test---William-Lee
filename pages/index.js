@@ -42,11 +42,18 @@ export default function Home() {
           </a>
 
           <a className={styles.card}>
-            <h2>Reflection &darr;</h2>
-            <ol type="a">
-              <li>Since this will be my first role in tech after graduating from BloomTech, I am looking to learn as much as I can. My goal in my next role is to really master the technical aspects of frontend frameworks and to be able to TEACH someone else what I know. In my eyes, if you can teach someone a skill, that is when you have mastered that skill.</li>
-              <li></li>
-            </ol> 
+            <h2>Reflection a. &darr;</h2>
+              <p>Since this will be my first role in tech after graduating from BloomTech, I am looking to learn as much as I can. My goal in my next role is to really master the technical aspects of frontend frameworks and to be able to TEACH someone else what I know. In my eyes, if you can teach someone a skill, that is when you have mastered that skill.</p>
+              </a>
+
+          <a href='https://time.com/6158182/vitalik-buterin-ethereum-profile/' className={styles.card}>
+            <h2>Reflection b. &rarr;</h2>
+              <p>I have been interested in and watched the cryptocurrency space for a few years now, and an article in Time Magazine came out earlier this year talking about Vitalik Buterin -- the founder of Ethereum. To me it seemed that cryptocurrency had gotten away from what it was intended to do. The article explains how Buterin, although himself concerned, will evermore stand by the principles of an open-sourced, decentralized internet. It goes on to say that Ethereum will move to a proof of stake blockchain verification system, which will reduce energy usage by more than 99 percent. In short, the article just gives me hope that despite all the money that surrounds Buterin, he still stand by his morals and pushes forward for a decentralized future where banks and countries don't hold all the power. </p>
+          </a>
+
+          <a className={styles.card}>
+            <h2>Personal Recommendations &darr;</h2>
+              <p>Some of the common things to consider are bandwidth needs, how many team members need access, image optimization, security, and options for support. I would imagine the mom and pop business would need a lot less in terms of bandwidth, support options, and team member access, but still need plenty in terms of security since they are dealing with transactions. An NFT site would need a lot for image optimization and security, because you would be dealing with buying and selling of the images in all likelihood. A marketing page for Nintendo would require a lot of bandwidth and team member access, but perhaps not as much image optimization since it is just one page.    </p> 
           </a>
 
           <a className={styles.card}>
@@ -59,10 +66,6 @@ export default function Home() {
             <p>Hi Melissa, Thank you for reaching to Vercel for your hosting needs -- I&apos;d be happy to help. At first glance at your site, my initial guess would be that Enterprise would be the way to go for Hipcamp, but I can&apos;t say straight away which option would be better for you without knowing a bit more information. In terms of your timeline, I don&apos;t think there would be any issues. Are you available sometime today or tomorrow to hop on a call/zoom to discuss further? I can walk you through everything you need to know about our product and together we can make an informed decision about which option makes the most sense. Let me know what day and time would work best for you.   </p>
           </a>
 
-          <a className={styles.card}>
-            <h2>Personal Recommendations &darr;</h2>
-              <p>Some of the common things to consider are bandwidth needs, how many team members need access, image optimization, security, and options for support. I would imagine the mom and pop business would need a lot less in terms of bandwidth, support options, and team member access, but still need plenty in terms of security since they are dealing with transactions. An NFT site would need a lot for image optimization and security, because you would be dealing with buying and selling of the images in all likelihood. A marketing page for Nintendo would require a lot of bandwidth and team member access, but perhaps not as much image optimization since it is just one page.    </p> 
-          </a>
         </div>
       </main>
 
