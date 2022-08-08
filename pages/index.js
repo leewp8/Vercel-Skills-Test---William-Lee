@@ -44,19 +44,19 @@ export default function Home() {
           <a className={styles.card}>
             <h2>Reflection &darr;</h2>
             <ol type="a">
-              <li>Since this will be my first role in tech after graduating from BloomTech, I'm looking to learn as much as I can. My goal in my next role is to really master the technical aspects of frontend frameworks and to be able to TEACH someone else what I know. In my eyes, if you can teach someone a skill, that's when you've mastered that skill.</li>
+              <li>Since this will be my first role in tech after graduating from BloomTech, I am looking to learn as much as I can. My goal in my next role is to really master the technical aspects of frontend frameworks and to be able to TEACH someone else what I know. In my eyes, if you can teach someone a skill, that is when you have mastered that skill.</li>
               <li></li>
             </ol> 
           </a>
 
           <a className={styles.card}>
             <h2>Practice Email 1 &darr;</h2>
-            <p>How are you doing Joe? Firstly, thank you for considering Vercel as a hosting option. I'd be glad to walk you through our Enterprise option as that would certainly be a great fit for Barnes and Noble. I'm sure as you saw some of the basic information from our site, but Enterprise is single-sign-on -- which we all love, and comes with a dedicated support manager to you and your team. Pricing is scaled according to your bandwidth needs. I'd love to get some more details from you to better assist our potential partnership. If we could get on a call or zoom some time this week I would love to walk you through how Vercel works, as well as how Enterprise would be the perfect fit for your needs. Would some time today or tomorrow work for you? Look forward to hearing from you.</p>
+            <p>How are you doing Joe? Firstly, thank you for considering Vercel as a hosting option. I&apos;d be glad to walk you through our Enterprise option as that would certainly be a great fit for Barnes and Noble. I&apos;m sure as you saw some of the basic information from our site, but Enterprise is single-sign-on -- which we all love, and comes with a dedicated support manager to you and your team. Pricing is scaled according to your bandwidth needs. I&apos;d love to get some more details from you to better assist our potential partnership. If we could get on a call or zoom some time this week I would love to walk you through how Vercel works, as well as how Enterprise would be the perfect fit for your needs. Would some time today or tomorrow work for you? Look forward to hearing from you.</p>
           </a>
 
           <a className={styles.card}>
             <h2>Practice Email 2 &darr;</h2>
-            <p>Hi Melissa, Thank you for reaching to Vercel for your site's needs -- I'd be happy to help. At first glance at your site, my initial guess would be that Enterprise would be the way to go for Hipcamp, but I can't say straight away which option would be better for you without knowing a bit more information. In terms of your timeline, I don't think there would be any issues. Are you available sometime today or tomorrow to hop on a call/zoom to discuss further? I can walk you through everything you need to know about our product and together we can make an informed decision about which option makes the most sense. Let me know what day and time would work best for you.   </p>
+            <p>Hi Melissa, Thank you for reaching to Vercel for your hosting needs -- I&apos;d be happy to help. At first glance at your site, my initial guess would be that Enterprise would be the way to go for Hipcamp, but I can&apos;t say straight away which option would be better for you without knowing a bit more information. In terms of your timeline, I don&apos;t think there would be any issues. Are you available sometime today or tomorrow to hop on a call/zoom to discuss further? I can walk you through everything you need to know about our product and together we can make an informed decision about which option makes the most sense. Let me know what day and time would work best for you.   </p>
           </a>
 
           <a className={styles.card}>
